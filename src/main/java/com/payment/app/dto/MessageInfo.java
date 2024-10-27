@@ -1,4 +1,4 @@
-package com.payment.apps.dto;
+package com.payment.app.dto;
 
 import java.sql.Date;
 
